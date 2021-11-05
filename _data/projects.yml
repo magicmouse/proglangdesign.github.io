@@ -22,7 +22,17 @@ Ante:
     A compiled systems language focusing on providing extensibility
     through the use of a compile-time API.
 
-Butter:
+Beads:
+  website: https://beadslang.org/
+  github: magicmouse/beads-examples
+  author: CodingFiend
+  icon: beads_c.png
+  summary: >
+    Super high level language optimized for web apps
+    Incorporates a graph database, layout and 2D drawing / event system
+	  Suitable for client and server side programming 
+  
+  Butter:
   github: neverRare/butter
   author: Sean (neverRare)
   icon: butter.svg
